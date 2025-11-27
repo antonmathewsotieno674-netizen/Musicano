@@ -1,0 +1,7 @@
+{
+  "name": "Virtuoso DJ - AI Mixer",
+  "description": "A professional-grade virtual DJ interface featuring dual decks, real-time stem separation controls, AI-powered track analysis, and a central mixer with effects. Built for performance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
